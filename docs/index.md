@@ -1,3 +1,8 @@
+---
+title: "UWT Manual Home"
+layout: default
+---
+
 # UWT Manual Home
 # Underwater Telephone (UWT) Maintenance Portal
 
