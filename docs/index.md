@@ -18,7 +18,7 @@ Contains the system purpose, scope, and the **Technical Glossary** for all acron
 ### [2. Hardware Units](02-hardware/transceiver.md)
 Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.
 
-### [3. System Cabling & Cabling list] (03-sytem-cabling-&-cabling-list/cabling-list.md)
+### [3. System Cabling & Cabling list](03-sytem-cabling-&-cabling-list/cabling-list.md)
 
 ### [4. Maintenance](04-maintenance/system-health-checks.md)
 Procedures for system health checks in the harbor and at sea.
@@ -26,7 +26,7 @@ Procedures for system health checks in the harbor and at sea.
 ### [5. Troubleshooting](05-troubleshooting/troubleshooting-&-repairs.md)
 Step-by-step guides for resolving power failures, display issues, and signal loss.
 
-### [6. Disassembly & Assembly of System Parts](03-disassembly-&-assembly/transducer.md)(03-disassembly-&-assembly/distribution-box.md)(03-disassembly-&-assembly/tranceiver.md)
+### [6. Disassembly & Assembly of System Parts](06-disassembly-&-assembly/transducer.md)(06-disassembly-&-assembly/distribution-box.md)(06-disassembly-&-assembly/tranceiver.md)
 
 ---
 
