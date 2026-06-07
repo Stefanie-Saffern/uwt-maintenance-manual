@@ -1,61 +1,65 @@
-# Transceiver Unit Hardware
+# 4. Transceiver
 
-The transceiver is the heart of the DSIT White Pointer UWT. It implements all transmission and receiving functions, including the Man-Machine Interface (MMI).
+The transceiver implements all UWT transmission and receiving functions, including the MMI (man machine interface). 
 
-## 4.1 Transceiver User Devices (Front Panel)
-The front panel is a **Panel PC (PPC)** that includes a resistive touch screen and several physical activation devices:
+The transceiver dimensions are 540 mm width by 460 mm depth by 340 mm height with a weight of 48 kg. From the user’s viewpoint, the transceiver is the heart of DSIT’s White Pointer UWT.
 
-### MMI Controls
-*   **Power Button (SW1):** Switches the transceiver on/off. Features color LEDs (Red/Orange/Green) for status.
-*   **Rotary Control Knob:** Used to adjust parameters. Pressing the knob saves selections.
-*   **Speaker & Headphones Volume:** Dedicated knobs for adjusting audio output levels.
+## 4.1 Transceiver User Devices
+The transceiver includes several user devices, including a headset with microphone, a microphone with PTT (push to talk switch) and a Morse key. 
 
-### Physical Connectors
-*   **Headset Connector:** Bottom right; connects to headphones/mic.
-*   **Morse Key Connector:** Connects to the Morse keyer.
-*   **PTT MIC Tangent:** Allows two voice/listening devices to be connected simultaneously.
-*   **USB Port:** Used for software downloads and connecting a mouse/keyboard.
+The front panel is a PC (personal computer) and includes a touch screen, called a panel PC (PPC). Behind the PPC there is a chassis with electronic cards mounted on a backplane.
 
----
-
-## 4.2 Rear Panel Connectors
-The rear panel handles all power and external sensor data. Key connectors include:
-
-*   **J1 (230VAC):** Main power input.
-*   **J8 (BAT):** For connecting an emergency battery.
-*   **J4 (Acoustic RX):** Connects to the external hydrophone via the distribution box.
-*   **J7 (Acoustic TX):** Connects to the external transducer via the distribution box.
-*   **J5 (OPR LAN):** Operative LAN for communication with external systems.
-*   **J2 (HMS MUTE):** Ensures the UWT and HMS sonar do not operate simultaneously.
+### Table 1: White Pointer (transceiver) front controls and connectors
+| # | Type | Tag | Location and function |
+| :--- | :--- | :--- | :--- |
+| 1 | Button | PWR | The power button on the top left is red when off. When turned on, it flashes orange, then turns green. |
+| 2 | Connector | Headset | The headset connector on the bottom right connects to the headphones. |
+| 3 | Device | PTT | The PTT (push to talk) switch is located between the headphone and headset connector. |
+| 4 | Connector | Morse | The Morse connector, on the left of headset, connects to the Morse keyer. |
+| 5 | Connector | PTT MIC Tangent | Allows two full voice and listening devices to be connected simultaneously. |
+| 6 | Connector | USB | Allows USB devices to be connected such as a mouse or keyboard. |
+| 7 | Knob | Rotary | On the front right side; used to adjust parameters. |
+| 8 | Knob | Speaker | The speaker volume control knob adjusts the speaker sound level. |
+| 9 | Knob | Headphones| The headphones volume adjusts the headphones sound level. |
 
 ---
 
-## 4.4 Electronic Modules (Internal)
-Inside the chassis, the system is divided into specific modular cards:
+## 4.2 Connectors (Rear Panel)
+The transceiver connectors are mounted on the front and rear panels. For transmission, a high voltage with weak current is used at UWT to reduce the transmission loss (TL). At the distribution box, this high voltage is reduced to the required value.
 
-### 4.4.1 Backplane & Controller
-The backplane contains the **Ethernet Switch (1 Mbps)** and the **Microcontroller**. It manages:
-*   Sequential power distribution to minimize "rush in" current.
-*   Climate control (monitoring temperature and humidity sensors).
-*   Fan activation (12 VDC).
-
-### 4.5 DPGA Card (Receive)
-The Dynamically Programmable Gate Array card has two simultaneous receive channels:
-*   **Channel 1:** Covers system bandwidth (1 – 60 kHz).
-*   **Channel 2:** Distress frequency band (8 – 12 kHz) with Upper Side SSB.
-
-### 4.6 Power Amplifier (PA) Card
-A Class D amplifier with >90% efficiency. It contains two amplifiers: one for the LF projector and one for the HF projector.
-
-### 4.7 High Voltage Power Supply (HVPS)
-A DC-DC converter that steps up the 24 VDC input to a **240 VDC output** to power the PA card.
+### Table 2: Transceiver (White Pointer) rear features and connectors
+| # | Type | Tag | Location and function |
+| :--- | :--- | :--- | :--- |
+| 1 | Feature | Air Filters | At the rear, top and bottom, are rows of air filters for dust protection. |
+| 2 | Switch | CB | The circuit breaker (CB) at the top right-hand side is a type of fuse. |
+| 3 | Connector | J1 230VAC | J1 is for a power cable providing 230 VAC power. |
+| 4 | Connector | J8 BAT | J8 is for connecting an emergency battery. |
+| 5 | Connector | GND | Earth grounding connector located under J8. |
+| 6 | Connector | J2 HMS MUTE | Connects UWT with HMS sonar to ensure they do not work simultaneously. |
+| 7 | Connector | J5 OPR LAN | Operative LAN connector for external system communication over Ethernet. |
+| 8 | Connector | J9 DPM MUTE | Connects UWT with depth measurement equipment (DPM). |
+| 9 | Connector | J4 ACOUSTIC RX| Receives signal data from the UWT external hydrophone via the distribution box. |
+| 10| Connector | J7 ACOUSTIC TX| Transmits signals to the UWT external transducer via the distribution box. |
+| 11| Connector | J3 AUDIO | Allows earphones and amplified microphones from outside sources. |
+| 12| Connector | J10 NMEA | National Marine Electronics Association Connector (RS232 + RS422). |
+| 13| Connector | J6 MNT LAN | Used by the technician for maintenance and Ethernet connection. |
 
 ---
 
-## 4.8 Panel PC (PPC) Specifications
-The PPC is a rugged computer meeting military standards:
-*   **CPU:** Intel 11th Gen Quad Core i7.
-*   **OS:** Windows 11.
-*   **Memory/Disk:** 16 GB RAM / 1 TB SSD.
-*   **Display:** 10.4" resistive touch screen (1024 x 768 resolution).
+## 4.3 Electric Power Supplies
+### AC Power Supply
+The 230 VAC is connected to connector J1. It goes through a circuit breaker and an EMI (electromagnetic interference) filter. It is input to an AC/DC power supply that outputs **24 VDC** to all transceiver modules via connector P10. The 230 VAC is also connected to a heater used to control humidity via two contactors.
 
+### DC Power Supply and Cooling
+*   The system can operate with a 24 VDC supply instead of AC (connected via J8).
+*   **Fans:** Three 12 VDC fans circulate air. Cold air is pumped in from the lower rear filtered openings; hot air is pushed out through the top. Fans are switched on/off based on internal air temperature.
+
+---
+
+## 4.4 Electronic Modules
+The backplane is located on the rear side of the transceiver and mechanically holds all rear panel connectors. It contains the wiring to interconnect modules using Ethernet and supply 24 VDC power.
+
+| Function / Element | Description |
+| :--- | :--- |
+| **Internal Ethernet** | Interconnected by 1 Mbps Ethernet switch in the backplane and PPC. |
+| **Transmit (TX) path** |
