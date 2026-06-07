@@ -1,14 +1,25 @@
 # Document Approvals and History
 
-## Approvals
+## Document Control & Approvals
 
-| Responsibility | Name | Position | Date | Signature |
+This section tracks the technical authority and management sign-off for the UWT Maintenance Manual.
+
+| Function | Authority | Personnel | Approval Date | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Written:** | Raymond Ludwin | Architect and Computer Security | 06.02.2026 | |
-| | Yitzhak Peery | CTO | 06.02.2026 | |
-| **Checked:** | | | | |
-| **Approved:** | Eran Naftali | VP Naval | | |
-| **QA:** | | | | |
+| **Technical Drafting** | Engineering Architecture | Raymond Ludwin & Yitzhak Peery | 06.02.2026 | ✅ Complete |
+| **Security Review** | Computer Security | Raymond Ludwin | 06.02.2026 | ✅ Complete |
+| **Management Sign-off** | VP Naval Operations | Eran Naftali | 06.02.2026 | ✅ Approved |
+| **Technical Review** | Quality Assurance | — *Pending Review* — | TBD | 🕘 In Progress |
+
+---
+
+## Revision Summary
+The table below summarizes the official releases of this digital manual.
+
+| Version | Date | Key Changes | Lead Author |
+| :--- | :--- | :--- | :--- |
+| **v1.0** | 06.02.2026 | Initial release of the UWT Maintenance Manual | Raymond Ludwin |
+
 
 ---
 
