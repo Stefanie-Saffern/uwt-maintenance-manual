@@ -4,7 +4,7 @@ Both the transducer unit projectors and the hydrophone are mounted on a plate, a
 
 <div style="max-width: 400px; margin: 20px 0;">
  
-![Transducer Unit](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transducer-unit.png")
+![Transducer Unit] (https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transducer-unit.png")
     
 </div>
 
