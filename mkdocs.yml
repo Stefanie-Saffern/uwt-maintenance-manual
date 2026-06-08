@@ -1,6 +1,6 @@
 site_name: UWT Maintenance Manual
 theme:
-  name: material
+  name: material 
   features:
     - navigation.sections
     - toc.integrate
@@ -13,3 +13,4 @@ nav:
       - Transceiver: 02-hardware/transceiver.md
   - Maintenance:
       - Troubleshooting: 03-maintenance/troubleshooting.md
+
