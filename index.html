@@ -1,47 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UWT Manual Home</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <title>UWT Maintenance Manual</title>
+  <!-- Theme: Simple (you can change to dark or other themes) -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
 </head>
 <body>
-    <h1>UWT Manual Home</h1>
-    <h2>Underwater Telephone (UWT) Maintenance Portal</h2>
-
-    <p>Welcome to the digital maintenance manual for the <strong>DSIT White Pointer UWT</strong>. This site is designed to provide quick access to system specifications, health checks, and repair procedures.</p>
-
-    <h2>🗂️ Quick Navigation</h2>
-
-    <p>Select a category below to begin:</p>
-
-    <h3><a href="01-introduction/glossary.md">1. Introduction</a></h3>
-    <p>Contains the system purpose, scope, and the <strong>Technical Glossary</strong> for all acronyms and definitions.</p>
-
-    <h3><a href="02-hardware/transceiver.md">2. Hardware Units</a></h3>
-    <p>Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.</p>
-
-    <h3><a href="03-sytem-cabling-&-cabling-list/cabling-list.md">3. System Cabling & Cabling list</a></h3>
-
-    <h3><a href="04-maintenance/system-health-checks.md">4. Maintenance</a></h3>
-    <p>Procedures for system health checks in the harbor and at sea.</p>
-
-    <h3><a href="05-troubleshooting/troubleshooting-&-repairs.md">5. Troubleshooting</a></h3>
-    <p>Step-by-step guides for resolving power failures, display issues, and signal loss.</p>
-
-    <h3><a href="03-disassembly-&-assembly/transducer.md">6. Disassembly & Assembly of System Parts</a></h3>
-    <p>
-        <a href="03-disassembly-&-assembly/distribution-box.md">Distribution Box</a>, 
-        <a href="03-disassembly-&-assembly/tranceiver.md">Transceiver</a>
-    </p>
-
-    <hr>
-
-    <p><strong>System Status:</strong></p>
-    <ul>
-        <li><strong>Manual Version:</strong> 1.0</li>
-        <li><strong>Release Date:</strong> 06.02.2026</li>
-        <li><strong>Security:</strong> Commercial in Confidence</li>
-    </ul>
+  <div id="app">Loading manual...</div>
+  <script>
+    window.$docsify = {
+      name: 'UWT Maintenance Manual',
+      repo: '',
+      loadSidebar: true, // This enables your menu
+      subMaxLevel: 2
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
