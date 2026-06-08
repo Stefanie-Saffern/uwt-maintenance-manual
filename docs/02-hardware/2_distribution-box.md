@@ -2,7 +2,7 @@
 
 The distribution box (junction box) connects the transducer unit to the transceiver. An isometric view of the distribution box is shown in the following figure, including its two stepdown transformers used for TX (transmit) signals.
 
-![isomentric-view-dist-box](images/hardware/isomentric-view-dist-box.png)
+![isomentric-view-dist-box](images/hardware/isometric-view-dist-box.png)
 
 The distribution box dimensions are 280 mm width by 210 mm depth by 390 mm height, with a weight of 11 kg. 
 
