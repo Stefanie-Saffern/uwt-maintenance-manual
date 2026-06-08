@@ -20,9 +20,6 @@ Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver
 * (02-hardware/1_transducer-unit.md)
 * (02-hardware/2_distribution-box.md)
 * (02-hardware/3_transceiver.md)
-#### [1_Transducer Unit
-#### Distribution Box
-#### Transceiver
 
 ### [3. System Cabling and Cabling list](03-sytem-cabling-and-cabling-list/cabling-list.md)
 
