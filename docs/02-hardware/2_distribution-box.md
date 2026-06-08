@@ -2,17 +2,23 @@
 
 The distribution box (junction box) connects the transducer unit to the transceiver. An isometric view of the distribution box is shown in the following figure, including its two stepdown transformers used for TX (transmit) signals.
 
-![Isometric View of Distribution Box](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/isometric-view-dist-box.png)
+<div style="width: 400px; border: 1px solid #ccc; padding: 10px;">
+  ![Isometric View of Distribution Box](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/isometric-view-dist-box.png)
+</div>
 
 The distribution box dimensions are 280 mm width by 210 mm depth by 390 mm height, with a weight of 11 kg. 
 
 The three cables from the transducer unit are connected to the distribution box via three cable glands at the bottom, as shown in the following figure.
 
-![Transducer Unit Cable Connections](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transducer-unit-cable-connection.png)
+<div style="width: 400px; border: 1px solid #ccc; padding: 10px;">
+  ![Transducer Unit Cable Connections](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transducer-unit-cable-connection.png)
+</div>
 
 Two cables connect the distribution box to the transceiver. The connectors are on the upper side of the distribution box, as shown in the following figure. The front door opening key is also shown above and in the following figure.
 
+<div style="width: 400px; border: 1px solid #ccc; padding: 10px;">
 ![Transceiver cables connection](https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transceiver-cables-connection.png)
+</div>
 
 The distribution box (junction box) is mounted on a wall using two shock mounts.
 
