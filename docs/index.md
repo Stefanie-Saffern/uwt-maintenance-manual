@@ -15,22 +15,22 @@ Select a category below to begin:
 ### [1. Introduction](01-introduction/glossary.md)
 Contains the system purpose, scope, and the **Technical Glossary** for all acronyms and definitions.
 
-### [2. Hardware Units](02-hardware/transceiver.md)
+### [2. Hardware Units](02-hardware/3_transceiver.md),(02-hardware/2_distribution-box.md),(02-hardware/1_transducer-unit.md)
 Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.
 
-#### Transducer
+#### [1_Transducer Unit
 #### Distribution Box
 #### Transceiver
 
-### [3. System Cabling & Cabling list](03-sytem-cabling-&-cabling-list/cabling-list.md)
+### [3. System Cabling and Cabling list](03-sytem-cabling-and-cabling-list/cabling-list.md)
 
 ### [4. Maintenance](04-maintenance/system-health-checks.md)
 Procedures for system health checks in the harbor and at sea.
 
-### [5. Troubleshooting](05-troubleshooting/troubleshooting-&-repairs.md)
+### [5. Troubleshooting](05-troubleshooting/troubleshooting-and-repairs.md)
 Step-by-step guides for resolving power failures, display issues, and signal loss.
 
-### [6. Disassembly & Assembly of System Parts](06-disassembly-&-assembly/transducer.md),(06-disassembly-&-assembly/distribution-box.md),(06-disassembly-&-assembly/tranceiver.md)
+### [6. Disassembly and Assembly of System Parts](06-disassembly-and-assembly/transducer.md),(06-disassembly-and-assembly/distribution-box.md),(06-disassembly-and-assembly/tranceiver.md)
 
 ---
 
