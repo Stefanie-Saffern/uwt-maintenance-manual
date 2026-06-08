@@ -18,6 +18,10 @@ Contains the system purpose, scope, and the **Technical Glossary** for all acron
 ### [2. Hardware Units](02-hardware/transceiver.md)
 Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.
 
+#### Transducer
+#### Distribution Box
+#### Transceiver
+
 ### [3. System Cabling & Cabling list](03-sytem-cabling-&-cabling-list/cabling-list.md)
 
 ### [4. Maintenance](04-maintenance/system-health-checks.md)
