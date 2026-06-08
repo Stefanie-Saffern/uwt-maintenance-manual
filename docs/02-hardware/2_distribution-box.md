@@ -12,7 +12,7 @@ The three cables from the transducer unit are connected to the distribution box 
 
 Two cables connect the distribution box to the transceiver. The connectors are on the upper side of the distribution box, as shown in the following figure. The front door opening key is also shown above and in the following figure.
 
-![Transceiver cables connection](images/hardware/transceiver-cables-connection.png)
+![Transceiver cables connection](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/hardware/transceiver-cables-connection.png)
 
 The distribution box (junction box) is mounted on a wall using two shock mounts.
 
