@@ -8,11 +8,11 @@ The distribution box dimensions are 280 mm width by 210 mm depth by 390 mm heigh
 
 The three cables from the transducer unit are connected to the distribution box via three cable glands at the bottom, as shown in the following figure.
 
-![Figure 19: Transducer unit cable connection](path_to_image_19)
+![Transducer unit cable connection](images/hardware/transducer-unit-cable-connection.png)
 
 Two cables connect the distribution box to the transceiver. The connectors are on the upper side of the distribution box, as shown in the following figure. The front door opening key is also shown above and in the following figure.
 
-![Figure 20: Transceiver cables connection](path_to_image_20)
+![Transceiver cables connection](images/hardware/transceiver-cables-connection.png)
 
 The distribution box (junction box) is mounted on a wall using two shock mounts.
 
