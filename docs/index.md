@@ -29,9 +29,11 @@ Procedures for system health checks in the harbor and at sea.
 ### [5. Troubleshooting](05-troubleshooting/troubleshooting-and-repairs.md)
 Step-by-step guides for resolving power failures, display issues, and signal loss.
 
-### [6. Disassembly and Assembly of System Parts](06-disassembly-and-assembly/transducer.md),(06-disassembly-and-assembly/distribution-box.md),(06-disassembly-and-assembly/tranceiver.md)
+### [6. Disassembly and Assembly of System Parts]
+- [Transducer](06-disassembly-and-assembly/transducer.md)
+- [Distribution Box](06-disassembly-and-assembly/distribution-box.md)
+- [Transceiver](06-disassembly-and-assembly/transceiver.md)
 
----
 
 **System Status:** 
 *   **Manual Version:** 1.0
