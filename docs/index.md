@@ -15,9 +15,11 @@ Select a category below to begin:
 ### [1. Introduction](01-introduction/glossary.md)
 Contains the system purpose, scope, and the **Technical Glossary** for all acronyms and definitions.
 
-### [2. Hardware Units](02-hardware/3_transceiver.md),(02-hardware/2_distribution-box.md),(02-hardware/1_transducer-unit.md)
+### [2. Hardware Units]
 Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.
-
+* (02-hardware/1_transducer-unit.md)
+* (02-hardware/2_distribution-box.md)
+* (02-hardware/3_transceiver.md)
 #### [1_Transducer Unit
 #### Distribution Box
 #### Transceiver
