@@ -2,7 +2,7 @@
 
 Both the transducer unit projectors and the hydrophone are mounted on a plate, as shown in Figure 1.
 
-<div style="width: 400px; margin: 20px 0;">
+<div style="max-width: 400px; margin: 20px 0;">
  
     <img src="https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/transducer-unit.png" alt="Transducer unit" style="width: 100%;">
     
@@ -10,7 +10,7 @@ Both the transducer unit projectors and the hydrophone are mounted on a plate, a
 
 The plate is mounted under the array as shown below.
 
-<div style="width: 400px; margin: 20px 0;">
+<div style="max-width: 400px; margin: 20px 0;">
   
     <img src="https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/UWT-transducers-under-hms-array.png" alt="UWT transducers under the HMS array" style="width: 100%;">
     
@@ -18,7 +18,7 @@ The plate is mounted under the array as shown below.
 
 Three cables exit the transducers and are terminated by an underwater connector. These are connected to the distribution box via underwater-type extension cables. These cables pass through watertight glands in the HMS sea chest cover, alongside the HMS array cables, as shown in Figure 3.
 
-<div style="width: 400px; margin: 20px 0;">
+<div style="max-width: 400px; margin: 20px 0;">
  
     <img src="https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/dome-and-sea-chest.png" alt="Dome and sea chest" style="width: 100%;">
     
@@ -28,7 +28,7 @@ Three cables exit the transducers and are terminated by an underwater connector.
 
 The low frequency (LF) projector is a spherical transducer. An isometric view is shown in Figure 4.
 
-<div style="width: 400px; margin: 20px 0;">
+<div style="max-width: 400px; margin: 20px 0;">
 
     <img src="https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/isometric-view-lf-projector.png" alt="Isometric view of the LF projector" style="width: 100%;">
     
@@ -36,7 +36,7 @@ The low frequency (LF) projector is a spherical transducer. An isometric view is
 
 The LF projector measures 165 mm in diameter by 262.5 mm in height, with a weight of 8 kg in air. Technical views and dimensions are provided in Figure 5.
 
-<div style="width: 400px; margin: 20px 0;">
+<div style="max-width: 400px; margin: 20px 0;">
   
     <img src="https://raw.githubusercontent.com/stefanie-saffern/uwt-maintenance-manual/main/images/hardware/technical-view-lf-projector.jpg" alt="Technical views of the LF projector" style="width: 100%;">
  
