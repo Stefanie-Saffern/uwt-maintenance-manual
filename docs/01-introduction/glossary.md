@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
+
 # Glossary
 
 This section contains the acronyms, abbreviations, and definitions relevant to the DSIT Underwater Telephone (UWT) Maintenance Manual.
