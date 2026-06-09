@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 5
+---
+
 ## 3. Distribution Box
 
 The distribution box (junction box) connects the transducer unit to the transceiver. An isometric view of the distribution box is shown in the following figure, including its two stepdown transformers used for TX (transmit) signals.
