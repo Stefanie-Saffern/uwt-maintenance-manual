@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 7
+---
+
 # 5. System Cabling Diagram and Cable List
 
 | Designation | Part Number | Description | Qty |
