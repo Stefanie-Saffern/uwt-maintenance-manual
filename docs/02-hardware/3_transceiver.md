@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 6
+---
+
 ## 4. Transceiver
 
 The transceiver implements all UWT transmission and receiving functions, including the MMI (man-machine interface). The transceiver dimensions are 540 mm width by 460 mm depth by 340 mm height, with a weight of 48 kg. From the user’s viewpoint, the transceiver is the heart of DSIT’s White Pointer UWT and is shown in the following figure.
