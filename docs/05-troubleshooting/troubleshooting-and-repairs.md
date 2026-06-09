@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
+
 # Troubleshooting and Repairs
 
 Failures in the UWT system are detected via the Panel PC (PPC) or by monitoring the DPGA/PA card telemetry displays.
