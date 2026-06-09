@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 4
+---
+
 ## 2. Transducer Unit
 
 Both the transducer unit projectors and the hydrophone are mounted on a plate, as shown in Figure 1.
