@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
+
 # 1. Introduction
 
 This chapter serves as an introduction to maintaining the DSIT underwater telephone (UWT). It details the purpose and scope of the document as well as including a glossary of acronyms and definitions used and a list of references and applicable documents.
