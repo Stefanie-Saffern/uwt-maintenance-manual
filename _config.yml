@@ -5,6 +5,3 @@ url: "https://stefsaffern.github.io/uwt-maintenance-manual"
 
 search_enabled: true
 
-# Navigation settings
-nav_order: 1
-has_children: true
