@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Disassembly and assembly
-nav_order: 13
+title: Disassembly and Assembly
+nav_order: 3
 has_children: true
 ---
 
