@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 7
+has_children: true
 ---
 
 ## 4. Transceiver
