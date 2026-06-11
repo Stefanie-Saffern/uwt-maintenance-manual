@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: System cabling and cabling list
 nav_order: 2
 has_children: true
 ---
