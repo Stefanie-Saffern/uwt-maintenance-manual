@@ -1,6 +1,7 @@
 ---
-title: "UWT Manual Home"
 layout: default
+title: Introduction
+nav_order: 10
 ---
 
 # UWT Manual Home
