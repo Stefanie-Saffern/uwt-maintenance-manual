@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 12
+has_children: true
 ---
 
 # Troubleshooting and Replacement Procedures
