@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 12
+---
+
 # Troubleshooting and Replacement Procedures
 
 When there is a failure in the system, the troubleshooting procedures of the previous chapter will detect the failed part, namely the line replaceable unit (LRU). The failed LRU should be replaced by a new one from the spare parts set. This chapter provides information and instructions on how to disassemble a failed LRU and reassemble a new LRU.
