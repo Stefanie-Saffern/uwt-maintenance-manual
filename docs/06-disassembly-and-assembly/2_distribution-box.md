@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduction
+nav_order: 13
+---
+
 ## Distribution Box
 
 To replace the two transformers:
