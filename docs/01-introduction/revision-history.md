@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 4
+has_children: true
 ---
 
 # Document Approvals and History
