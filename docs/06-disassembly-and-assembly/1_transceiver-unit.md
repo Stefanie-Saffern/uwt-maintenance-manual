@@ -2,6 +2,7 @@
 layout: default
 title: About
 nav_order: 11
+has_children: true
 ---
 
 8.3	Transceiver Unit
