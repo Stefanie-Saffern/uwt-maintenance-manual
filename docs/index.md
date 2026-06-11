@@ -3,11 +3,11 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
-# Documentation Home
+# Underwater Telephone (UWT) Maintenance Documentation Portal
 
-Welcome to the system documentation. This guide covers installation, operation, maintenance, and troubleshooting.
+Welcome to the digital maintenance manual for the DSIT White Pointer UWT. This site is designed to provide quick access to system specifications, health checks, and repair procedures.
 
-## Table of Contents
+## Quick Navigation
 
 ### 01. Introduction
 - [About](01-introduction/about.md)
