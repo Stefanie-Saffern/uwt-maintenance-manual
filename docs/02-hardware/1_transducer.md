@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 5
+has_children: true
 ---
 
 ## 2. Transducer Unit
