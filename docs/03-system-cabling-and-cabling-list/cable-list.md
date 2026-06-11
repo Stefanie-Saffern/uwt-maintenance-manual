@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-nav_order: 7
+nav_order: 8
 ---
 
 # 5. System Cabling Diagram and Cable List
