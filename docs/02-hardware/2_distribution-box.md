@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 6
+has_children: true
 ---
 
 ## 3. Distribution Box
