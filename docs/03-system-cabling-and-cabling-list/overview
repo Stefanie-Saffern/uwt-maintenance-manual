@@ -1,0 +1,7 @@
+---
+layout: default
+title: Hardware
+nav_order: 1
+has_children: true
+---
+This topic discusses the system cabling and cabling list for UWT.
