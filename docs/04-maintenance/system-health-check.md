@@ -2,6 +2,7 @@
 layout: default
 title: Introduction
 nav_order: 9
+has_children: true
 ---
 
 # System Health Checks
