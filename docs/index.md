@@ -1,42 +1,41 @@
 ---
 layout: default
 title: Introduction
-nav_order: 10
+nav_order: 1
+---
+# Documentation Home
+
+Welcome to the system documentation. This guide covers installation, operation, maintenance, and troubleshooting.
+
+## Table of Contents
+
+### 01. Introduction
+- [About](01-introduction/about.md)
+- [Glossary](01-introduction/glossary.md)
+- [Revision History](01-introduction/revision-history.md)
+
+### 02. Hardware
+- [Transducer](02-hardware/1_transducer.md)
+- [Distribution Box](02-hardware/2_distribution-box.md)
+- [Transceiver](02-hardware/3_transceiver.md)
+
+### 03. System Cabling and Cabling List
+- [Cable List](03-system-cabling-and-cabling-list/cable-list.md)
+
+### 04. Maintenance
+- [System Health Check](04-maintenance/system-health-check.md)
+
+### 05. Troubleshooting
+- [Troubleshooting and Repairs](05-troubleshooting/troubleshooting-and-repairs.md)
+
+### 06. Disassembly and Assembly
+- [Transceiver Unit](06-disassembly-and-assembly/1_transceiver-unit.md)
+- [Transducer Unit](06-disassembly-and-assembly/1_transducer-unit.md)
+- [Distribution Box](06-disassembly-and-assembly/2_distribution-box.md)
+
 ---
 
-# UWT Manual Home
-# Underwater Telephone (UWT) Maintenance Portal
-
-Welcome to the digital maintenance manual for the **DSIT White Pointer UWT**. This site is designed to provide quick access to system specifications, health checks, and repair procedures.
-
-## 🗂️ Quick Navigation
-
-Select a category below to begin:
-
-### [1. Introduction](01-introduction/glossary.md)
-Contains the system purpose, scope, and the **Technical Glossary** for all acronyms and definitions.
-
-### 2. Hardware Units
-Detailed breakdown of the Transducer Unit, Distribution Box, and the Transceiver electronics.
-* [Transducer Unit](02-hardware/1_transducer-unit.md)
-* [Distribution Box](02-hardware/2_distribution-box.md)
-* [Transceiver](02-hardware/3_transceiver.md)
-
-### [3. System Cabling and Cabling list](03-sytem-cabling-and-cabling-list/cabling-list.md)
-
-### [4. Maintenance](04-maintenance/system-health-checks.md)
-Procedures for system health checks in the harbor and at sea.
-
-### [5. Troubleshooting](05-troubleshooting/troubleshooting-and-repairs.md)
-Step-by-step guides for resolving power failures, display issues, and signal loss.
-
-### 6. Disassembly and Assembly of System Parts
-- [Transducer](06-disassembly-and-assembly/transducer.md)
-- [Distribution Box](06-disassembly-and-assembly/distribution-box.md)
-- [Transceiver](06-disassembly-and-assembly/transceiver.md)
-
-
-**System Status:** 
-*   **Manual Version:** 1.0
-*   **Release Date:** 06.02.2026
-*   **Security:** Commercial in Confidence
+## Quick Links
+- Need help? Start with [Troubleshooting](05-troubleshooting/troubleshooting-and-repairs.md)
+- New to the system? Read the [About](01-introduction/about.md) section
+- Check [Glossary](01-introduction/glossary.md) for technical terms
