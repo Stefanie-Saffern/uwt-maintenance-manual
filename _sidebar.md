@@ -1,10 +1,4 @@
-* [Home](README.md)
-
-* **Introduction**
-  * [Glossary](01-introduction/glossary.md)
-
 * **Hardware**
   * [Transceiver](02-hardware/transceiver.md)
-
-* **Maintenance**
-  * [Troubleshooting](03-maintenance/troubleshooting.md)
+  * [Antenna Systems](02-hardware/antenna.md)
+  * [Power Supply](02-hardware/power.md)
