@@ -1,9 +1,6 @@
 title: "White Pointer Maintenance Manual"
 description: "Hardware and maintenance documentation"
-remote_theme: jekyll/minimal
+remote_theme: just-the-docs/just-the-docs
 url: "https://stefsaffern.github.io/uwt-maintenance-manual"
-
-plugins:
-  - jekyll-remote-theme
 
 search_enabled: true
