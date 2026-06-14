@@ -1,7 +1,17 @@
-title: "White Pointer Maintenance Manual"
+title: "UWT Maintenance Manual"
 description: "UWT maintenance documentation"
-remote_theme: just-the-docs/just-the-docs
-url: "https://stefsaffern.github.io/uwt-maintenance-manual"
 
+# Use the Just the Docs remote theme
+remote_theme: just-the-docs/just-the-docs
+
+# GitHub Pages URL
+url: "https://stefsaffern.github.io"
+baseurl: "/uwt-maintenance-manual"
+
+# Enable search
 search_enabled: true
+
+# Optional: navigation structure (auto-generates if omitted)
+# nav_order controls ordering; lower = higher in sidebar
+# Add nav_order to your Markdown files' front matter if needed
 
